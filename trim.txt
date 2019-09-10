@@ -1,0 +1,5 @@
+def trim(s):
+	i = 0
+	while s[i]==' '
+		i++
+	j = s.
